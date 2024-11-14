@@ -1,0 +1,86 @@
+[
+  {
+    "company": "TransferGratis",
+    "website": "https://transfergratis.com/",
+    "currency_from": "CAD",
+    "rates": [
+      {
+        "currency_to": "XOF",
+        "exchange_rate": 455.30,
+        "last_updated": "2024-11-14T10:00:00Z"
+      },
+      {
+        "currency_to": "EUR",
+        "exchange_rate": 0.68,
+        "last_updated": "2024-11-14T10:00:00Z"
+      }
+    ]
+  },
+  {
+    "company": "Taptap Send",
+    "website": "https://www.taptapsend.com/",
+    "currency_from": "CAD",
+    "rates": [
+      {
+        "currency_to": "XOF",
+        "exchange_rate": 454.20,
+        "last_updated": "2024-11-14T10:00:00Z"
+      },
+      {
+        "currency_to": "EUR",
+        "exchange_rate": 0.67,
+        "last_updated": "2024-11-14T10:00:00Z"
+      }
+    ]
+  },
+  {
+    "company": "TransfertChapChap",
+    "website": "https://transfertchapchap.co/",
+    "currency_from": "CAD",
+    "rates": [
+      {
+        "currency_to": "XOF",
+        "exchange_rate": 453.75,
+        "last_updated": "2024-11-14T10:00:00Z"
+      },
+      {
+        "currency_to": "EUR",
+        "exchange_rate": 0.66,
+        "last_updated": "2024-11-14T10:00:00Z"
+      }
+    ]
+  },
+  {
+    "company": "Gandyam Pay",
+    "currency_from": "CAD",
+    "rates": [
+      {
+        "currency_to": "XOF",
+        "exchange_rate": 456.00,
+        "last_updated": "2024-11-14T10:00:00Z"
+      },
+      {
+        "currency_to": "EUR",
+        "exchange_rate": 0.69,
+        "last_updated": "2024-11-14T10:00:00Z"
+      }
+    ]
+  },
+  {
+    "company": "Ria Money Transfer",
+    "website": "https://www.riamoneytransfer.com/",
+    "currency_from": "CAD",
+    "rates": [
+      {
+        "currency_to": "XOF",
+        "exchange_rate": 452.50,
+        "last_updated": "2024-11-14T10:00:00Z"
+      },
+      {
+        "currency_to": "EUR",
+        "exchange_rate": 0.65,
+        "last_updated": "2024-11-14T10:00:00Z"
+      }
+    ]
+  }
+]
